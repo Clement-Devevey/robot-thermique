@@ -1,5 +1,6 @@
 # Le robot à guidage thermique
 ## Description
+Projet réalisé en équipe de trois : Julien CHAVAS, Clément DEVEVEY et Alexandre HUMBERT.
 Ce projet consiste à réaliser un OS Linux embarqué et un programme en C permettant à un robot de suivre un humain.
 Le suivi s'effectura grâce à un capteur thermique 8x8. Le robot doit suivre l'humain en détectant sa chaleur et sans heurter d'obstacle.
 
